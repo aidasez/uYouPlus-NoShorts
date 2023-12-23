@@ -8,6 +8,6 @@
   uYouPlus - https://github.com/qnblackcat/uYouPlus
 </h2>
 <h2>
-  YT-Unshorts Repo - https://poomsmart.github.io/repo&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160
+  YT-Unshorts Repo - https://poomsmart.github.io/repo&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160
   Tweak in 'TWEAKS' folder
 </h2>
