@@ -8,5 +8,5 @@
   uYouPlus - https://github.com/qnblackcat/uYouPlus
 </h2>
 <h2>
-  YTUnshorts Repo - https://poomsmart.github.io/repo
+  YT-Unshorts Repo - https://poomsmart.github.io/repo
 </h2>
