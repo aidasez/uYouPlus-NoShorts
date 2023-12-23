@@ -2,11 +2,11 @@
   ytshorts are ass
 </h1>
 <p3>
-  uyouplus with YTUnshorts tweak
+  uyouplus ipa with YTUnshorts tweak.
 </p3>
-<p2>
+<h2>
   uYouPlus - https://github.com/qnblackcat/uYouPlus
-</p2>
-<p2>
+</h2>
+<h2>
   YTUnshorts Repo - https://poomsmart.github.io/repo
-</p2>
+</h2>
